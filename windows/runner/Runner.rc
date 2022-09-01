@@ -90,12 +90,21 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
+<<<<<<< HEAD
             VALUE "FileDescription", "neumorphism_button_" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "neumorphism_button_" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "neumorphism_button_.exe" "\0"
             VALUE "ProductName", "neumorphism_button_" "\0"
+=======
+            VALUE "FileDescription", "login_screen" "\0"
+            VALUE "FileVersion", VERSION_AS_STRING "\0"
+            VALUE "InternalName", "login_screen" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "login_screen.exe" "\0"
+            VALUE "ProductName", "login_screen" "\0"
+>>>>>>> 3ee1f9f (Navigation)
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

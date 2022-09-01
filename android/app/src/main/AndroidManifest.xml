@@ -1,7 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.neumorphism_button_">
    <application
         android:label="neumorphism_button_"
+=======
+    package="com.example.login_screen">
+   <application
+        android:label="login_screen"
+>>>>>>> 3ee1f9f (Navigation)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

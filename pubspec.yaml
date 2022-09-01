@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: neumorphism_button_
+=======
+name: login_screen
+>>>>>>> 3ee1f9f (Navigation)
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -73,6 +77,7 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+<<<<<<< HEAD
   # fonts:
   #   - family: Schyler
   #     fonts:
@@ -85,5 +90,15 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
+=======
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: fonts/Rubik-Medium.ttf
+        - asset: fonts/Rubik-Regular.ttf
+         
+    
+  
+>>>>>>> 3ee1f9f (Navigation)
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages

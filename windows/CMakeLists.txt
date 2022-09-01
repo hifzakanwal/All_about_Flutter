@@ -1,7 +1,13 @@
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(neumorphism_button_ LANGUAGES CXX)
 
 set(BINARY_NAME "neumorphism_button_")
+=======
+project(login_screen LANGUAGES CXX)
+
+set(BINARY_NAME "login_screen")
+>>>>>>> 3ee1f9f (Navigation)
 
 cmake_policy(SET CMP0063 NEW)
 

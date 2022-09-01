@@ -8,7 +8,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:neumorphism_button_/main.dart';
+=======
+import 'package:login_screen/main.dart';
+>>>>>>> 3ee1f9f (Navigation)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {

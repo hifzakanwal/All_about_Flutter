@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "neumorphism_button_",
     "short_name": "neumorphism_button_",
+=======
+    "name": "login_screen",
+    "short_name": "login_screen",
+>>>>>>> 3ee1f9f (Navigation)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
